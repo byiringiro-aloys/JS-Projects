@@ -21,3 +21,7 @@ increaseBtn.onclick = function(){
     count++
     document.getElementById("myLabel").textContent = count;
 }
+function isEven() {
+    3 * 4;
+}
+isEven();
